@@ -1,3 +1,4 @@
 # hello-world
 no description
-GitHub is a good place to lean programming.
+
+GitHub is a good place to learn programming.
